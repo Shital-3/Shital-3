@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="180"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 </div>
 
 
