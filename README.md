@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shital</h1>
-<h3 align="center">Aspiring Java Backend Developer | DSA Learner 👩‍💻</h3>
+<h3 align="center">Aspiring Frontend Developer | DSA Learner 👩‍💻</h3>
 
 
 <div align="center">
@@ -72,7 +72,7 @@
 ## 🧠 Daily Practice
 - Solving DSA problems
 - Improving problem solving
-- Learning backend development
+- Learning Frontend development
 
 
 ## 🟡 Contribution Graph
