@@ -37,7 +37,7 @@ from deployed frontend platforms to client-facing freelance sites.
 
 | Project | Description | Live / Repo |
 |---|---|---|
-| 🎓 **Campus Connect** | Placement portal with AI match-score feature (FastAPI + Gemini API) | [Repo](https://github.com/Shital-3/campus-connect) |
+
 | ⛩️ **Torii** | Japanese learning platform — React 18, deployed on Vercel | [Live Demo](https://torii-learn.vercel.app) |
 | 🎬 **Darshan Productions** | Client freelance project — cinematic responsive site | [Repo](https://github.com/Shital-3/Darshan_Production) |
 | 💻 **Daily DSA (Java)** | Consistent DSA practice and problem-solving log | [Repo](https://github.com/Shital-3/Daily-Dsa-Java) |
