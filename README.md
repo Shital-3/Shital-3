@@ -16,7 +16,7 @@ practical, production-style web applications.
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://shital-portfolio.vercel.app/">
+<a href="https://shital-portfolio-six.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 </p>
@@ -140,7 +140,7 @@ real-world projects.**
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://shital-portfolio.vercel.app/">
+<a href="https://shital-portfolio-six.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 </p>
