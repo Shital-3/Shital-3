@@ -67,7 +67,8 @@ experiences, dilemmas and solutions with others.
 
 **Focus:** Full-Stack Development • User Experience • Problem Solving
 
-🔗 GitHub repository coming soon
+🔗 [Live Demo](https://pathfinder-murex-seven.vercel.app/)  
+🔗 [GitHub Repository](https://github.com/Shital-3/pathfinder)
 
 ---
 
@@ -90,8 +91,8 @@ A full-stack store rating platform with separate experiences for
 
 **Tech:** React • MySQL • REST APIs • Role-Based Access
 
-🔗 [GitHub Repository](https://github.com/Shital-3/store-rating-app)  
-🔗 Live deployment coming soon
+🔗 [Live Demo](https://store-rating-app-rho-one.vercel.app/)  
+🔗 [GitHub Repository](https://github.com/Shital-3/store-rating-app)
 
 ---
 
